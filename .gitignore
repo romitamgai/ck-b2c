@@ -1,0 +1,16 @@
+# Dependencies #
+node_modules
+
+# Distribution folder #
+dist
+
+
+# Log files #
+*.log
+
+# Environment variables #
+.env
+
+# IDE Configurations
+.idea/
+.vscode/
